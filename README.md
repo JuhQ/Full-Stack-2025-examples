@@ -4,4 +4,4 @@ Hello world!
 
 To install `code` command on command line, run shift+ctrl+p (windows) or shift+cmd+p (mac) in visual studio code
 
-Hello
+Hello from vscode
