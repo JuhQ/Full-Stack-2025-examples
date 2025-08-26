@@ -1,0 +1,13 @@
+body {
+  font-family: "Permanent Marker", cursive;
+
+  background-color: #ea4336;
+}
+
+nav ul li a {
+  color: rgb(255, 197, 88);
+}
+
+nav ul li a:hover {
+  color: rgb(227, 255, 88);
+}
